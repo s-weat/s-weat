@@ -9,7 +9,7 @@ I build inclusive, accessible, and beautiful digital experiences. Passionate abo
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,figma,git,github)
 
 ### 🌎 Connect
-- [Your Website](https://sweat.rocks)
-- [Gallery](https://gallery.sweat.rocks)
+[![Website](https://img.shields.io/badge/-Website-000?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://sweat.rocks)
+[![Gallery](https://img.shields.io/badge/-Gallery-000?style=for-the-badge&logo=Google-Photos&logoColor=white)](https://gallery.sweat.rocks)
 
-🚀 Always learning, always creating.
+
