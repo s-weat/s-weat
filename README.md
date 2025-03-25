@@ -5,7 +5,7 @@
 I create dreamy, inclusive, and accessible digital experiences. Passionate about making the web magical for everyone. ✨💫
 
 ### 🌸 Skills
-![Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,figma,git,github,python&theme=dark)
+![Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,figma,git,github,python&theme=light)
 
 ### 💕 Stuff
 [![Website](https://img.shields.io/badge/-Website-ff79c6?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://sweat.rocks)
