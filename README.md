@@ -1,6 +1,6 @@
 # Hey, I'm Alex 💙
 
-**Web Developer | Accessibility Advocate | LGBTQ+ 🏳️‍🌈**
+**Web Developer | Tech Enthusiast | LGBTQ+ 🏳️‍🌈**
 
 I build inclusive, accessible, and beautiful digital experiences. Passionate about making the web work for everyone. ✨
 
